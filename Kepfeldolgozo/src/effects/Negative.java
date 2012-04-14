@@ -1,6 +1,5 @@
 package effects;
 
-
 import java.awt.Color;
 import tmpimage.TmpImage;
 
